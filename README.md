@@ -7,6 +7,9 @@ TOPSIS stands for Technique for Oder Preference by Similarity to Ideal Solution.
 ## Installation
 pip install Topsis-Achyut-102003640
 
+## Link for the Package on pypi.org
+https://pypi.org/project/Mashup-Achyut-102003640/
+
 #How to use it?
 Open terminal and type 
 Usages: python <program.py> <InputDataFile> <Weights> <Impacts> <ResultFileName>
