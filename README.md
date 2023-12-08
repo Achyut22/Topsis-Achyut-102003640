@@ -2,7 +2,7 @@
 It provides a mechanism to assign priority to the dataset based on certain data values.
 
 # Definition
-TOPSIS stands for Technique for Oder Preference by Similarity to Ideal Solution. It is a method of compensatory aggregation that compares a set of alternatives by identifying weights for each criterion, normalising scores for each criterion and calculating the geometric distance between each alternative and the ideal alternative, which is the best score in each criterion. 
+TOPSIS stands for Technique for Order Preference by Similarity to Ideal Solution. It is a method of compensatory aggregation that compares a set of alternatives by identifying weights for each criterion, normalising scores for each criterion and calculating the geometric distance between each alternative and the ideal alternative, which is the best score in each criterion. 
 
 ## Installation
 pip install Topsis-Achyut-102003640
